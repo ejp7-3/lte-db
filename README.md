@@ -10,7 +10,7 @@ Blanchy et al. (2020). A catalog of meta-data about agricultural long-term field
 
 The repository can be cited as:
 
-TODO
+Blanchy, G., D’Hose, T., Donmez, C., Hoffmann, C., Makoschitz, L., Murugan, R., O’Sullivan, L., Spiegel, A., Svoboda, N., Zechmeister-Boltenstern, S., & Klumpp, K. (2023). EJP MTE/LTE dataset and analysis v1.0.1. Zenodo. https://doi.org/10.5281/zenodo.7598122
 
 
 ## Funding
