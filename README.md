@@ -4,11 +4,11 @@ This repository contains the dataset collected for the task 7.3 of the European 
 
 
 ## Citation
-The dataset (`ejp7_3-lte-db-levels-public`) can cited as:
+The dataset (`data/ejp7_3-lte-db-levels-public.xlsx`) can cited as:
 
 Blanchy et al. (2020). A catalog of meta-data about agricultural long-term field experiments in Europe (EJP SOIL 7.3). https://doi.org/10.20387/bonares-jwhj-z839
 
-The repository can be cited as:
+The repository which contains the analysis (`notebooks/level-analysis.ipynb`) can be cited as:
 
 Blanchy, G., D’Hose, T., Donmez, C., Hoffmann, C., Makoschitz, L., Murugan, R., O’Sullivan, L., Spiegel, A., Svoboda, N., Zechmeister-Boltenstern, S., & Klumpp, K. (2023). EJP MTE/LTE dataset and analysis v1.0.1. Zenodo. https://doi.org/10.5281/zenodo.7598122
 
